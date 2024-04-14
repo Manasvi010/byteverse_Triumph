@@ -1,0 +1,89 @@
+.immi{
+    opacity: 0.6;
+}
+.carousel-item{
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  /* Bottom left text */
+.h {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    color: rgb(48, 52, 54);
+    font-style: italic;
+    
+    
+  }
+  
+.navbar{
+    background-color: rgba(38, 75, 139, 0.926);
+    height:100px;
+}
+.b{
+    background-color: rgb(187, 216, 242);
+    color: rgb(12, 140, 140);
+    border-radius: 10%;
+    position: relative;
+    left:1200px;
+    top:20px;
+    
+}
+.b:hover{
+    background-color: aquamarine;
+    
+}
+
+body{
+    background-color: rgb(188, 221, 238);
+}
+.d-flex{
+  position: relative;
+  left:800px;
+  bottom:70px;
+}
+
+.ii{
+    width:100px;
+   height:80px;
+}
+.hi{
+    position: relative;
+    right:650px;
+    font-family: sans-serif;
+    font-style: italic;
+    width:70px;
+    color:azure
+}
+
+.card{
+    position: relative;
+    bottom:2%;
+    top:80px;
+}
+
+
+.j{
+    position: relative;
+    left:1100px;
+    bottom:113px;
+    background-color:rgb(40, 220, 160);
+    
+}
+.c{
+    position: relative;
+    top:70px;
+    right:270px;
+    background-color: rgb(191, 216, 244);
+    
+    
+}
+
+.c:hover{
+    background-color: aliceblue;
+}
+
+
+

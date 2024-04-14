@@ -1,0 +1,66 @@
+.co{
+  padding:0% 7%;
+  }
+
+#feature{
+  padding:0% 24%;
+  }
+
+.ca{
+  background-color: black;
+  }
+.h{
+  color: white;
+}
+
+.reg{
+  color:white;
+  padding:1% 0%;
+}
+.l{
+  color:white;
+  
+}
+.fas{
+  color: white;
+}
+.cu{
+  padding: 5% 0%;
+}
+#space{
+  padding: 5% 5%;
+}
+.p{
+padding: 1% 10%;
+}
+
+.a{
+  padding:0% 0%;
+  
+  
+}
+
+.b{
+  background-color:rgb(195, 217, 239);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.btn:hover{
+    background-color: white;
+    color:black;
+}
+
+.btn{
+  background-color:rgb(199, 216, 241);
+  padding:2% 55%;
+  margin:5% 0%;
+}
+
+.cl{
+  padding:2% 15%;
+  margin:2% 0%;
+}
+
+.fa{
+  letter-spacing: 0% 5%;
+}
